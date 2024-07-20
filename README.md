@@ -1,6 +1,6 @@
 # Grocery MERN Stack Project
 
-Welcome to our Grocery project built on the MERN (MongoDB, Express.js, React.js, Node.js) stack! Our goal is to develop an e-commerce platform catering to grocery enthusiasts, providing a seamless browsing and purchasing experience.
+Welcome to our Grocery project built on the MERN (MongoDB, Express.js, React.js, Node.js) stack! My goal is to develop an e-commerce platform catering to grocery enthusiasts, providing a seamless browsing and purchasing experience.
 
 ## Features
 
